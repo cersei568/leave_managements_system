@@ -6,8 +6,8 @@ A comprehensive, enterprise-grade leave management system built with Python and 
 
 ## 🔗 Links  
 
-- **Demo:** [Demo](https://careerpathpro.streamlit.app)  
-- **GitHub:** [GitHub](https://github.com/cersei568/careerpath_pro)  
+- **Demo:** [Demo](https://leavemanagementsystem.streamlit.app)  
+- **GitHub:** [GitHub](https://github.com/cersei568/leave_managements_system)  
 
 
 ## 🌟 Overview
